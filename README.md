@@ -9,4 +9,4 @@ Remarques :
 
 ## Remerciments 
 
-Un grand merci à erizu34, bastossss et tomleblais pour leur participation !
+Un grand merci à erizu34, bastossss et tomleblais pour leurs participations !
