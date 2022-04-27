@@ -1,11 +1,14 @@
-# nsi_ep
-Proposition de réponse aux sujets de l'Epreuve Pratique de NSI
+# Proposition de réponses aux sujets de l'Epreuve Pratique de NSI
 
-Remarques :
-- Sujet 3 : Erreur dans l'énoncé
-- Sujet 7 - Ex 2 -> Hors programme : Tri à Bulle/Bubblesort sans explications
-- Sujet 10 - Seulement l'Ex 1 a une proposition de correction
+## Remerciments
 
-## Remerciments 
+- erizu34 
+- bastossss 
+- tomleblais
 
-Un grand merci à erizu34, bastossss et tomleblais pour leurs participations !
+## Années 2022 : 
+
+L'ensemble des sujets de l'année sont traités. Sauf 
+
+- Sujet 7 -> Hors programme de Tale
+- Sujet 10.2 -> Pas encore eu le temps de le traiter
