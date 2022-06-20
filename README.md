@@ -15,3 +15,7 @@ Prochainement...
 L'ensemble des sujets de l'année sont traités. Sauf 
 
 - Sujet 7 -> Hors programme de Tale
+
+## Année 2023 :
+
+Le plus tôt possible après la publication des sujets.
